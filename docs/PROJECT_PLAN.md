@@ -1,37 +1,114 @@
-# Paddington Helper Academy — Project Plan
+# Paddington Helper Academy
 
-## Concept
+## Project Vision
 
-Paddington Helper Academy is an interactive English learning project for children aged 9–12.
+Paddington Helper Academy is an interactive English learning platform for children aged 9-12.
 
-Children become Paddington's Helpers and learn English through stories, missions, and games. Instead of focusing only on translation or memorising isolated words, the project encourages children to understand English in context, think in English, and communicate naturally.
+Children learn English through:
+- stories
+- missions
+- games
+- vocabulary practice
+- speaking activities
 
-## Learning experience
+The goal is not translation or memorization.
+The goal is using English naturally.
 
-The platform combines a cozy storybook world with friendly adventures. Each activity gives children a reason to use English: finding pairs, solving clues, building words, completing missions, and speaking aloud.
+---
 
-The experience should help learners develop confidence across vocabulary, reading, listening, writing, and speaking.
+# Main Interface
 
-## Current games
+The website starts with an interactive dashboard.
 
-### Memory Game
+Visual concept:
+- open children's storybook
+- colorful 3D illustrations
+- cozy adventure atmosphere
+- warm and friendly design
 
-A picture-and-word matching activity for learning and practising vocabulary.
+The main screen contains four clickable game cards:
 
-The existing Memory Game is located in the repository's root `index.html`. It must remain unchanged while the project structure and documentation grow around it.
+1. Memory Game
+2. Word Kitchen
+3. Pancake Builder
+4. Paddington Detective
 
-### Word Kitchen
+---
 
-A vocabulary game area planned to include picture–word matching, quizzes, anagrams, missing-letter activities, and typing practice.
+# Games
 
-### Pancake Builder
+## Memory Game
 
-A playful game in which children complete English tasks while building pancakes. Voice recording is planned to support speaking practice.
+Purpose:
+Vocabulary recognition.
 
-### Paddington Detective
+Levels:
+1. Picture → Word
+2. Quiz
+3. Anagram
+4. Missing letters
+5. Type the whole word
 
-A mission-based adventure across different locations. Children solve clues and complete vocabulary challenges in English.
 
-## Direction
+## Word Kitchen
 
-Paddington Helper Academy should feel warm, welcoming, and adventurous. Stories and meaningful tasks should make English a tool for play and communication rather than a list of words to memorise.
+Purpose:
+Learn food and everyday vocabulary.
+
+Mechanics:
+- picture recognition
+- word matching
+- spelling practice
+
+
+## Pancake Builder
+
+Purpose:
+Practice food vocabulary and speaking.
+
+Mechanics:
+- choose pancake
+- choose toppings
+- create a pancake
+- record voice description
+
+
+## Paddington Detective
+
+Purpose:
+Vocabulary in context.
+
+Locations:
+- Pancake Kitchen
+- Picnic Park
+- School
+- Pigeon visit
+
+Mechanics:
+Children choose correct English words to solve missions.
+
+
+# Visual Style
+
+The website should look like:
+- a 3D children's storybook
+- not flat design
+- no emoji
+- no simple icons
+
+Elements:
+- paper texture
+- wooden objects
+- warm lighting
+- realistic illustrations
+- depth and shadows
+
+
+# Future Features
+
+Later:
+- student accounts
+- progress tracking
+- badges
+- unlocked rooms
+- teacher dashboard
