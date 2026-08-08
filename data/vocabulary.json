@@ -1,0 +1,15 @@
+[
+  {"id":"porridge","word":"porridge","label":"porridge","sprite":[0,0]},
+  {"id":"pancakes","word":"cottage cheese pancakes","label":"cottage cheese pancakes","sprite":[1,0]},
+  {"id":"letter","word":"write a letter","label":"write a letter","sprite":[2,0]},
+  {"id":"marmalade","word":"sweet orange jam","label":"sweet orange jam","sprite":[3,0]},
+  {"id":"bear","word":"look after a bear","label":"look after a bear","sprite":[0,1]},
+  {"id":"treats","word":"cook treats","label":"cook treats","sprite":[1,1]},
+  {"id":"excited","word":"excited","label":"excited","sprite":[2,1]},
+  {"id":"wake-up","word":"wake up","label":"wake up","sprite":[3,1]},
+  {"id":"strawberry","word":"strawberry","label":"strawberry","sprite":[0,2]},
+  {"id":"blueberry","word":"blueberry","label":"blueberry","sprite":[1,2]},
+  {"id":"kitchen","word":"a kitchen","label":"a kitchen","sprite":[2,2]},
+  {"id":"stove","word":"a stove","label":"a stove","sprite":[3,2]}
+]
+
